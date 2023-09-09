@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am David Wagalinemera
+### Passionate Backend Software developer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidwaga)](https://git.io/streak-stats)
 
-<!--
-**davidwaga/davidwaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a number of projects some private and other public visit https://github.com/davidwaga
+- 🌱 I’m currently learning machine learning and AI, plus some JavaScript
+- 🧠 I'm proficient with the following: PHP, Ruby, Python, Cloud Engineering, System Design, APIs Development
+- 🤝 I’m open to senior roles, collaborating on Developer tools or related projects and services, open source, saas, enterprise projects!.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about web apps, tech, Backend, software architecture and design, and design in general.
+- 📫 How to reach me: mail me at davidwaga75@gmail.com
+- 📄 Find me on twitter, am @davidwaga.
 - ⚡ Fun fact: ...
--->
+- 🦄 Technologies I am Interested In:
+
+JavaScriptPythonRubyVuejsTailwindCSSNodeJSPostgreSQLLinuxDockerFigmaGoogle Cloud
