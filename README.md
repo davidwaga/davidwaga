@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning machine learning and AI, plus some JavaScript
 - 🧠 I'm proficient with the following: PHP, Ruby, Python, Cloud Engineering, System Design, APIs Development
 - 🤝 I’m open to senior roles, collaborating on Developer tools or related projects and services, open source, saas, enterprise projects!.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about web apps, tech, Backend, software architecture and design, and design in general.
 - 📫 How to reach me: mail me at davidwaga75@gmail.com
 - 📄 Find me on twitter, am @davidwaga.
