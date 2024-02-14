@@ -1,7 +1,7 @@
 ### Hi there 👋 I am David Wagalinemera
 ### Passionate Backend Software developer
 - 🔭 I’m currently working on a number of projects some private and other public visit https://github.com/davidwaga
-- 🌱 I’m currently learning machine learning and AI, plus some JavaScript
+- 🌱 I’m currently doing a Machine Learning and AI course, plus some JavaScript
 - 🤝 I’m open to senior roles, collaborating on Developer tools or related projects and services, open source, saas, enterprise projects!.
 - 💬 Ask me about web apps, tech, Backend, software architecture and design, and design in general.
 - 📫 How to reach me: mail me at davidwaga75@gmail.com
