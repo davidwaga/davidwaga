@@ -5,8 +5,7 @@
 - 🤝 I’m open to senior roles, collaborating on Developer tools or related projects and services, open source, saas, enterprise projects!.
 - 💬 Ask me about web apps, tech, Backend, software architecture and design, and design in general, Data Analystics, AI and ML
 - 📫 How to reach me: mail me at davidwaga75@gmail.com
-- 📄 Find me on twitter, am @davidwaga.
-- <a href="https://www.linkedin.com/in/david-wagalinemera/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>
+- 📄 Find me on twitter, am @davidwaga, <a href="https://www.linkedin.com/in/david-wagalinemera/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>
 
 - ⚡ Fun fact: reading books, listening to music, playing chess, making new friends 
 - 🦄 Technologies I am Interested In:
